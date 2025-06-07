@@ -1,2 +1,2 @@
 # gdut数据库课程设计以及实验报告
-课程设计项目与Educationmagement_sys软工课程设计
+课程设计项目与软工课程设计相同，可参考Educationmagement_sys介绍
