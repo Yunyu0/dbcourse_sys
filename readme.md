@@ -1,0 +1,2 @@
+# gdut数据库课程设计以及实验报告
+课程设计项目与Educationmagement_sys软工课程设计相同
